@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 OPR/128.0.0.0" version="29.6.1">
+  <diagram name="Page-1" id="6tEqwlmdRjQU0mylQ6u4">
+    <mxGraphModel dx="1664" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BSBank" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cuenta Bancaria" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Avances" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Retiros" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-9" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-10" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-11" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="762" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="estadoDeLaCuenta" vertex="1">
+          <mxGeometry height="60" width="120" x="612" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Saldo" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Hisotrial de movimientos" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Usuario" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Administrador" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-16" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="List" vertex="1">
+          <mxGeometry height="120" width="140" x="580" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-17" parent="ND0WTd3apH0Ha0r7HIT_-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 1" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-18" parent="ND0WTd3apH0Ha0r7HIT_-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 2" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-19" parent="ND0WTd3apH0Ha0r7HIT_-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Donaciones" vertex="1">
+          <mxGeometry height="60" width="120" x="820" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Depositos" vertex="1">
+          <mxGeometry height="60" width="120" x="990" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Inversiones" vertex="1">
+          <mxGeometry height="60" width="120" x="1170" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
