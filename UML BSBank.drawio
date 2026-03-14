@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 OPR/128.0.0.0" version="29.6.1">
+  <diagram name="Page-1" id="6tEqwlmdRjQU0mylQ6u4">
+    <mxGraphModel dx="1664" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-23" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-24" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BSBank" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-28" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-29" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-30" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-31" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-32" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cuenta Bancaria" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Avances" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Retiros" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-9" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-10" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-11" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1042" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="estadoDeLaCuenta" vertex="1">
+          <mxGeometry height="60" width="120" x="1100" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Saldo" vertex="1">
+          <mxGeometry height="60" width="120" x="1020" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Hisotrial de movimientos" vertex="1">
+          <mxGeometry height="60" width="120" x="1280" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-27" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-33" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ND0WTd3apH0Ha0r7HIT_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Usuario" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-34" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-35" edge="1" parent="1" source="ND0WTd3apH0Ha0r7HIT_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ND0WTd3apH0Ha0r7HIT_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Administrador" vertex="1">
+          <mxGeometry height="60" width="120" x="980" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Donaciones" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Depositos" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ND0WTd3apH0Ha0r7HIT_-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Inversiones" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
